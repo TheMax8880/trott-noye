@@ -1,0 +1,115 @@
+[17-Dec-2023 19:23:36 UTC] Sync process for Gutenberg Blocks has started.
+[17-Dec-2023 19:23:36 UTC] CATEGORY:Importing categories..
+[17-Dec-2023 19:23:37 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[17-Dec-2023 19:23:37 UTC] CATEGORY:Completed category import.
+[17-Dec-2023 19:23:37 UTC] BLOCK: Getting Total Blocks
+[17-Dec-2023 19:23:37 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[17-Dec-2023 19:23:37 UTC] BLOCK: Requests count 4
+[17-Dec-2023 19:23:37 UTC] BLOCK: Importing request 1 ..
+[17-Dec-2023 19:23:37 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[17-Dec-2023 19:23:37 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[17-Dec-2023 19:23:37 UTC] BLOCK: Completed request 1
+[17-Dec-2023 19:23:37 UTC] BLOCK: Importing request 2 ..
+[17-Dec-2023 19:23:37 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[17-Dec-2023 19:23:38 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[17-Dec-2023 19:23:38 UTC] BLOCK: Completed request 2
+[17-Dec-2023 19:23:38 UTC] BLOCK: Importing request 3 ..
+[17-Dec-2023 19:23:38 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[17-Dec-2023 19:23:38 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[17-Dec-2023 19:23:38 UTC] BLOCK: Completed request 3
+[17-Dec-2023 19:23:38 UTC] BLOCK: Importing request 4 ..
+[17-Dec-2023 19:23:38 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[17-Dec-2023 19:23:39 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[17-Dec-2023 19:23:39 UTC] BLOCK: Completed request 4
+[17-Dec-2023 19:23:39 UTC] SITE: Getting Total Sites
+[17-Dec-2023 19:23:39 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[17-Dec-2023 19:23:39 UTC] SITE: Request count 2
+[17-Dec-2023 19:23:39 UTC] SITE: Importing request 1 ..
+[17-Dec-2023 19:23:39 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[17-Dec-2023 19:23:40 UTC] SITE: Storing in option ast-block-templates-sites-1
+[17-Dec-2023 19:23:40 UTC] SITE: Completed request 1
+[17-Dec-2023 19:23:40 UTC] SITE: Importing request 2 ..
+[17-Dec-2023 19:23:40 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[17-Dec-2023 19:23:40 UTC] SITE: Storing in option ast-block-templates-sites-2
+[17-Dec-2023 19:23:40 UTC] SITE: Completed request 2
+[17-Dec-2023 19:23:40 UTC] Sync process for Gutenberg Blocks is done.
+[17-Dec-2023 19:36:16 UTC] PHP Warning:  file_get_contents(C:\Users\maxim\Local Sites\trott-noye\app\public/wp-content/plugins/ocean-extra/ocean-extra.php): Failed to open stream: No such file or directory in C:\Users\maxim\Local Sites\trott-noye\app\public\wp-includes\functions.php on line 6805
+[17-Dec-2023 19:37:19 UTC] PHP Warning:  file_get_contents(C:\Users\maxim\Local Sites\trott-noye\app\public/wp-content/plugins/ocean-extra/ocean-extra.php): Failed to open stream: No such file or directory in C:\Users\maxim\Local Sites\trott-noye\app\public\wp-includes\functions.php on line 6805
+[17-Dec-2023 20:01:48 UTC] PHP Warning:  file_get_contents(C:\Users\maxim\Local Sites\trott-noye\app\public/wp-content/plugins/ocean-extra/ocean-extra.php): Failed to open stream: No such file or directory in C:\Users\maxim\Local Sites\trott-noye\app\public\wp-includes\functions.php on line 6805
+[17-Dec-2023 20:02:04 UTC] PHP Warning:  file_get_contents(C:\Users\maxim\Local Sites\trott-noye\app\public/wp-content/plugins/ocean-extra/ocean-extra.php): Failed to open stream: No such file or directory in C:\Users\maxim\Local Sites\trott-noye\app\public\wp-includes\functions.php on line 6805
+[18-Dec-2023 09:09:12 UTC] PHP Warning:  file_get_contents(C:\Users\maxim\Local Sites\trott-noye\app\public/wp-content/plugins/ocean-extra/ocean-extra.php): Failed to open stream: No such file or directory in C:\Users\maxim\Local Sites\trott-noye\app\public\wp-includes\functions.php on line 6805
+[18-Dec-2023 09:13:48 UTC] PHP Warning:  file_get_contents(C:\Users\maxim\Local Sites\trott-noye\app\public/wp-content/plugins/ocean-extra/ocean-extra.php): Failed to open stream: No such file or directory in C:\Users\maxim\Local Sites\trott-noye\app\public\wp-includes\functions.php on line 6805
+[19-Dec-2023 06:42:54 UTC] Sync process for Gutenberg Blocks has started.
+[19-Dec-2023 06:42:54 UTC] CATEGORY:Importing categories..
+[19-Dec-2023 06:42:54 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[19-Dec-2023 06:42:54 UTC] CATEGORY:Completed category import.
+[19-Dec-2023 06:42:54 UTC] BLOCK: Getting Total Blocks
+[19-Dec-2023 06:42:54 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[19-Dec-2023 06:42:54 UTC] BLOCK: Requests count 4
+[19-Dec-2023 06:42:54 UTC] BLOCK: Importing request 1 ..
+[19-Dec-2023 06:42:54 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[19-Dec-2023 06:42:55 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[19-Dec-2023 06:42:55 UTC] BLOCK: Completed request 1
+[19-Dec-2023 06:42:55 UTC] BLOCK: Importing request 2 ..
+[19-Dec-2023 06:42:55 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[19-Dec-2023 06:42:55 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[19-Dec-2023 06:42:55 UTC] BLOCK: Completed request 2
+[19-Dec-2023 06:42:55 UTC] BLOCK: Importing request 3 ..
+[19-Dec-2023 06:42:55 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[19-Dec-2023 06:42:55 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[19-Dec-2023 06:42:55 UTC] BLOCK: Completed request 3
+[19-Dec-2023 06:42:55 UTC] BLOCK: Importing request 4 ..
+[19-Dec-2023 06:42:55 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[19-Dec-2023 06:42:55 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[19-Dec-2023 06:42:55 UTC] BLOCK: Completed request 4
+[19-Dec-2023 06:42:55 UTC] SITE: Getting Total Sites
+[19-Dec-2023 06:42:55 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[19-Dec-2023 06:42:55 UTC] SITE: Request count 2
+[19-Dec-2023 06:42:55 UTC] SITE: Importing request 1 ..
+[19-Dec-2023 06:42:55 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[19-Dec-2023 06:42:55 UTC] SITE: Storing in option ast-block-templates-sites-1
+[19-Dec-2023 06:42:55 UTC] SITE: Completed request 1
+[19-Dec-2023 06:42:55 UTC] SITE: Importing request 2 ..
+[19-Dec-2023 06:42:55 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[19-Dec-2023 06:42:56 UTC] SITE: Storing in option ast-block-templates-sites-2
+[19-Dec-2023 06:42:56 UTC] SITE: Completed request 2
+[19-Dec-2023 06:42:56 UTC] Sync process for Gutenberg Blocks is done.
+[21-Dec-2023 11:40:25 UTC] Sync process for Gutenberg Blocks has started.
+[21-Dec-2023 11:40:25 UTC] CATEGORY:Importing categories..
+[21-Dec-2023 11:40:25 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[21-Dec-2023 11:40:25 UTC] CATEGORY:Completed category import.
+[21-Dec-2023 11:40:25 UTC] BLOCK: Getting Total Blocks
+[21-Dec-2023 11:40:25 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[21-Dec-2023 11:40:25 UTC] BLOCK: Requests count 4
+[21-Dec-2023 11:40:25 UTC] BLOCK: Importing request 1 ..
+[21-Dec-2023 11:40:25 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[21-Dec-2023 11:40:25 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[21-Dec-2023 11:40:25 UTC] BLOCK: Completed request 1
+[21-Dec-2023 11:40:25 UTC] BLOCK: Importing request 2 ..
+[21-Dec-2023 11:40:25 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[21-Dec-2023 11:40:26 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[21-Dec-2023 11:40:26 UTC] BLOCK: Completed request 2
+[21-Dec-2023 11:40:26 UTC] BLOCK: Importing request 3 ..
+[21-Dec-2023 11:40:26 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[21-Dec-2023 11:40:26 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[21-Dec-2023 11:40:26 UTC] BLOCK: Completed request 3
+[21-Dec-2023 11:40:26 UTC] BLOCK: Importing request 4 ..
+[21-Dec-2023 11:40:26 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[21-Dec-2023 11:40:26 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[21-Dec-2023 11:40:26 UTC] BLOCK: Completed request 4
+[21-Dec-2023 11:40:26 UTC] SITE: Getting Total Sites
+[21-Dec-2023 11:40:26 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[21-Dec-2023 11:40:26 UTC] SITE: Request count 2
+[21-Dec-2023 11:40:26 UTC] SITE: Importing request 1 ..
+[21-Dec-2023 11:40:26 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[21-Dec-2023 11:40:26 UTC] SITE: Storing in option ast-block-templates-sites-1
+[21-Dec-2023 11:40:26 UTC] SITE: Completed request 1
+[21-Dec-2023 11:40:26 UTC] SITE: Importing request 2 ..
+[21-Dec-2023 11:40:26 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[21-Dec-2023 11:40:27 UTC] SITE: Storing in option ast-block-templates-sites-2
+[21-Dec-2023 11:40:27 UTC] SITE: Completed request 2
+[21-Dec-2023 11:40:27 UTC] Sync process for Gutenberg Blocks is done.
+[21-Dec-2023 13:48:57 UTC] PHP Warning:  file_get_contents(C:\Users\maxim\Local Sites\trott-noye\app\public/wp-content/plugins/ocean-extra/ocean-extra.php): Failed to open stream: No such file or directory in C:\Users\maxim\Local Sites\trott-noye\app\public\wp-includes\functions.php on line 6805
+[21-Dec-2023 14:55:15 UTC] PHP Warning:  file_get_contents(C:\Users\maxim\Local Sites\trott-noye\app\public/wp-content/plugins/ocean-extra/ocean-extra.php): Failed to open stream: No such file or directory in C:\Users\maxim\Local Sites\trott-noye\app\public\wp-includes\functions.php on line 6805
+[21-Dec-2023 16:37:57 UTC] PHP Warning:  Undefined array key "width" in C:\Users\maxim\Local Sites\trott-noye\app\public\wp-admin\includes\image.php on line 110
+[21-Dec-2023 16:37:57 UTC] PHP Warning:  Undefined array key "height" in C:\Users\maxim\Local Sites\trott-noye\app\public\wp-admin\includes\image.php on line 111
