@@ -113,3 +113,48 @@
 [21-Dec-2023 14:55:15 UTC] PHP Warning:  file_get_contents(C:\Users\maxim\Local Sites\trott-noye\app\public/wp-content/plugins/ocean-extra/ocean-extra.php): Failed to open stream: No such file or directory in C:\Users\maxim\Local Sites\trott-noye\app\public\wp-includes\functions.php on line 6805
 [21-Dec-2023 16:37:57 UTC] PHP Warning:  Undefined array key "width" in C:\Users\maxim\Local Sites\trott-noye\app\public\wp-admin\includes\image.php on line 110
 [21-Dec-2023 16:37:57 UTC] PHP Warning:  Undefined array key "height" in C:\Users\maxim\Local Sites\trott-noye\app\public\wp-admin\includes\image.php on line 111
+[21-Dec-2023 19:41:51 UTC] PHP Warning:  Undefined array key "width" in C:\Users\maxim\Local Sites\trott-noye\app\public\wp-admin\includes\image.php on line 110
+[21-Dec-2023 19:41:51 UTC] PHP Warning:  Undefined array key "height" in C:\Users\maxim\Local Sites\trott-noye\app\public\wp-admin\includes\image.php on line 111
+[22-Dec-2023 12:39:30 UTC] Sync process for Gutenberg Blocks has started.
+[22-Dec-2023 12:39:30 UTC] CATEGORY:Importing categories..
+[22-Dec-2023 12:39:31 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[22-Dec-2023 12:39:31 UTC] CATEGORY:Completed category import.
+[22-Dec-2023 12:39:31 UTC] BLOCK: Getting Total Blocks
+[22-Dec-2023 12:39:31 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[22-Dec-2023 12:39:31 UTC] BLOCK: Requests count 4
+[22-Dec-2023 12:39:31 UTC] BLOCK: Importing request 1 ..
+[22-Dec-2023 12:39:31 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[22-Dec-2023 12:39:31 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[22-Dec-2023 12:39:31 UTC] BLOCK: Completed request 1
+[22-Dec-2023 12:39:31 UTC] BLOCK: Importing request 2 ..
+[22-Dec-2023 12:39:31 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[22-Dec-2023 12:39:31 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[22-Dec-2023 12:39:31 UTC] BLOCK: Completed request 2
+[22-Dec-2023 12:39:31 UTC] BLOCK: Importing request 3 ..
+[22-Dec-2023 12:39:31 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[22-Dec-2023 12:39:31 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[22-Dec-2023 12:39:31 UTC] BLOCK: Completed request 3
+[22-Dec-2023 12:39:31 UTC] BLOCK: Importing request 4 ..
+[22-Dec-2023 12:39:31 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[22-Dec-2023 12:39:31 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[22-Dec-2023 12:39:31 UTC] BLOCK: Completed request 4
+[22-Dec-2023 12:39:31 UTC] SITE: Getting Total Sites
+[22-Dec-2023 12:39:31 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[22-Dec-2023 12:39:31 UTC] SITE: Request count 2
+[22-Dec-2023 12:39:31 UTC] SITE: Importing request 1 ..
+[22-Dec-2023 12:39:31 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[22-Dec-2023 12:39:32 UTC] SITE: Storing in option ast-block-templates-sites-1
+[22-Dec-2023 12:39:32 UTC] SITE: Completed request 1
+[22-Dec-2023 12:39:32 UTC] SITE: Importing request 2 ..
+[22-Dec-2023 12:39:32 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[22-Dec-2023 12:39:32 UTC] SITE: Storing in option ast-block-templates-sites-2
+[22-Dec-2023 12:39:32 UTC] SITE: Completed request 2
+[22-Dec-2023 12:39:32 UTC] Sync process for Gutenberg Blocks is done.
+[26-Dec-2023 13:53:23 UTC] PHP Warning:  copy(C:/Users/maxim/Local Sites/trott-noye/static/accueil/index.html): Failed to open stream: No such file or directory in C:\Users\maxim\Local Sites\trott-noye\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
+[26-Dec-2023 13:53:23 UTC] PHP Warning:  copy(C:/Users/maxim/Local Sites/trott-noye/static/wp-json/wp/v2/pages/5/index.html): Failed to open stream: No such file or directory in C:\Users\maxim\Local Sites\trott-noye\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
+[26-Dec-2023 13:53:23 UTC] PHP Warning:  copy(C:/Users/maxim/Local Sites/trott-noye/static/nos-parcours/accueil/index.html): Failed to open stream: No such file or directory in C:\Users\maxim\Local Sites\trott-noye\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
+[26-Dec-2023 13:53:23 UTC] PHP Warning:  copy(C:/Users/maxim/Local Sites/trott-noye/static/wp-json/wp/v2/pages/11/index.html): Failed to open stream: No such file or directory in C:\Users\maxim\Local Sites\trott-noye\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
+[26-Dec-2023 13:53:23 UTC] PHP Warning:  copy(C:/Users/maxim/Local Sites/trott-noye/static/la-chambre-a-la-noye/accueil/index.html): Failed to open stream: No such file or directory in C:\Users\maxim\Local Sites\trott-noye\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
+[26-Dec-2023 13:53:23 UTC] PHP Warning:  copy(C:/Users/maxim/Local Sites/trott-noye/static/contact/accueil/index.html): Failed to open stream: No such file or directory in C:\Users\maxim\Local Sites\trott-noye\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
+[26-Dec-2023 13:53:23 UTC] PHP Warning:  copy(C:/Users/maxim/Local Sites/trott-noye/static/wp-json/wp/v2/pages/21/index.html): Failed to open stream: No such file or directory in C:\Users\maxim\Local Sites\trott-noye\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
+[26-Dec-2023 13:53:24 UTC] PHP Warning:  copy(C:/Users/maxim/Local Sites/trott-noye/static/wp-json/wp/v2/pages/130/index.html): Failed to open stream: No such file or directory in C:\Users\maxim\Local Sites\trott-noye\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
